@@ -1,0 +1,18 @@
+body
+{
+text-align: center;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading button{ 
+float: right;
+border: 1px solid greenyellow;
+}
+.heading h3{
+    display: inline;
+    }
+#credit{
+    color:whitesmoke;
+}
